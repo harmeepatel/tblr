@@ -6,7 +6,7 @@ import './App.css'
 function App() {
     return (
         <>
-        <h1>Bhen ka loda</h1>
+            <h1>TBLR</h1>
         </>
     )
 }

@@ -7,6 +7,7 @@ function App() {
     return (
         <>
             <h1>TBLR</h1>
+            <p>this is the para</p>
         </>
     )
 }

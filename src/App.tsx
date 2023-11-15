@@ -4,26 +4,11 @@ import viteLogo from '/vite.svg'
 import './App.css'
 
 function App() {
-  const [count, setCount] = createSignal(0)
-
-  return (
-    <>
-      <div>
-      </div>
-      <h1>Ride App</h1>
-      <div class="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count()}
-        </button>
-        <p>
-          Edit <code>src/App.tsx</code> and save to test HMR
-        </p>
-      </div>
-      <p class="read-the-docs">
-        Click on the Vite and Solid logos to learn more
-      </p>
-    </>
-  )
+    return (
+        <>
+        <h1>Bhen ka loda</h1>
+        </>
+    )
 }
 
 export default App
